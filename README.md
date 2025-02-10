@@ -3,7 +3,7 @@
 A simple number guessing game built with HTML, CSS, and JavaScript.
 
 
-Table of Contents
+**Table of Contents**
 
 About the Project
 
@@ -15,7 +15,7 @@ Technologies Used
 
 
 
-About the Project
+**About the Project**
 
 This project is a simple browser-based game where players try to guess a randomly generated number between 1 and 20. 
 
@@ -25,7 +25,7 @@ The goal is to guess the number with the highest possible score.
 
 
 
-Features
+**Features**
 
 Random number generation between 1 and 20
 
@@ -39,7 +39,7 @@ User-friendly interface
 
 
 
-How to Play
+**How to Play**
 
 Enter a number between 1 and 20 in the input field.
 
@@ -59,7 +59,7 @@ Click "Again!" to restart the game.
 
 
 
-Technologies Used
+**Technologies Used**
 
 HTML
 
